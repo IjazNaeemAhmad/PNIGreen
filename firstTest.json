@@ -1,0 +1,36 @@
+{
+  "UserInfo":[
+    {
+      "UserId": "0",
+      "firstname": "Jonathan",
+      "Surname": "Bardwell",
+      "PlayerDesc": "Into VR dev and games",
+      "MaxGold": "523",
+      "Team": "Red"
+    },
+    {
+      "UserId": "1",
+      "firstname": "Ijaz",
+      "Surname": "Ahmad",
+      "PlayerDesc": "dev extraordinairre",
+      "MaxGold": "21",
+      "Team": "Blue"
+    },
+    {
+      "UserId": "2",
+      "firstname": "Jona",
+      "Surname": "Bell",
+      "PlayerDesc": "Into cars",
+      "MaxGold": "1234",
+      "Team": "Blue"
+    },
+    {
+      "UserId": "3",
+      "firstname": "Baz",
+      "Surname": "Mad",
+      "PlayerDesc": "meathead",
+      "MaxGold": "221",
+      "Team": "Red"
+    }
+  ]
+}
